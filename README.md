@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Application de Bibliothèque — React + TypeScript (Documentation)
 
 ##  Introduction
@@ -185,6 +184,4 @@ Gère les appels API Wikipédia :
 
 ```bash
 npm run test
-=======
-# library-app
->>>>>>> 3bf239cb6a13395e2c80111288ebd2f3ea900f36
+```
